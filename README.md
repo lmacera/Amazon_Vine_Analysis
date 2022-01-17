@@ -4,9 +4,13 @@
 
 Our team has been tasked with using Amazon Web Services (AWS), SQL, and PySpark to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. For our assignment we analyzed an Amazon dataset of various shoe reviews.
 
-## Results
+## Analysis
 
-For this project our team utilized the Amazon dataset on various shoe reviews and performed the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into SQL. Additionally, we used PySpark to summarize our findings in one dataframe to determine if there is any bias toward favorable reviews from Vine members. Our analysis of the shoe data can be summarized in the below image:
+For this project our team utilized the Amazon dataset on various shoe reviews and performed the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into SQL. Additionally, we used PySpark to summarize our findings in one dataframe to determine if there is any bias toward favorable reviews from Vine members. 
+
+### Results
+
+Our analysis of the shoe data can be summarized in the below image:
 
 ![ Fig 1](https://github.com/lmacera/Amazon_Vine_Analysis/blob/main/Fig%201.PNG )
 
